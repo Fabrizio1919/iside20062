@@ -2,3 +2,10 @@
     flex: 1 1 auto;
   }
   
+  .logo img{
+    height: 6rem;
+  }
+
+  .banner img {
+    max-width: 100%;
+  }

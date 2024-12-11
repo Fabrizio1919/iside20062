@@ -8,7 +8,7 @@ import { EmailComponent } from './email/email/email.component';
 import { LavoriComponent } from './lavori/lavori/lavori.component';
 
 const routes: Routes = [
-  {path:'home', component: HomeComponent},
+  {path:'', component: HomeComponent},
   {path:'storia', component: StoriaComponent},
   {path:'servizi', component: ServiziComponent},
   {path:'lavora', component: LavoraComponent},
